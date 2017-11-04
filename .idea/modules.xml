@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hrtest1_common/hrtest1_common.iml" filepath="$PROJECT_DIR$/hrtest1_common/hrtest1_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrtest1_mapper/hrtest1_mapper.iml" filepath="$PROJECT_DIR$/hrtest1_mapper/hrtest1_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrtest1_model/hrtest1_model.iml" filepath="$PROJECT_DIR$/hrtest1_model/hrtest1_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrtest1_parent.iml" filepath="$PROJECT_DIR$/hrtest1_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrtest1_service/hrtest1_service.iml" filepath="$PROJECT_DIR$/hrtest1_service/hrtest1_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrtest1_web/hrtest1_web.iml" filepath="$PROJECT_DIR$/hrtest1_web/hrtest1_web.iml" />
+    </modules>
+  </component>
+</project>
